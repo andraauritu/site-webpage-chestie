@@ -1,0 +1,15 @@
+h1{
+font size: 30 px;
+color: salmon;}
+.big{
+	font-size: 60px;
+}
+.uppercase {
+	text-transform: uppercase;
+}
+p1{
+	color: blue;
+}
+span {
+	color: violet ;
+}
